@@ -1,7 +1,7 @@
 module.exports = {
   TOKEN:
-    "MTE2NTIxNzkxMDIxMDQ0OTQzOA.GsDCe6.sW9MFDcx4P1BxMewu0GHCWNi8aaDwl-OxJ4JuA",
-  ownerID: ["433879002713948160"], //write your discord user id. example: ["id"] or ["id1","id2"]
+    "token",
+  ownerID: [], //write your discord user id. example: ["id"] or ["id1","id2"]
   botInvite: "", //write your discord bot invite.
   supportServer: "", //write your discord bot support server invite.
   mongodbURL:
